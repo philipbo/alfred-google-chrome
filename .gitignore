@@ -13,3 +13,9 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+py.iml
+.DS_Store
+
+.idea
+alfred-google-chrome
